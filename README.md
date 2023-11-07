@@ -8,8 +8,13 @@
 Я рассматриваю Git и GitHub как неотъемлемую часть моего рабочего процесса, поэтому я активно использую их для управления версиями и совместной работы. Я открыт для сотрудничества и готов делиться своим опытом с другими разработчиками.
 
 Если у тебя возникли вопросы, предложения или интересные проекты, буду рад ответить на них! Давай вместе сделаем веб-мир лучше! 😊
-Мой Telegram: https://t.me/SerzhantovDim
+
+**Мой Telegram:** https://t.me/SerzhantovDim
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitrySerzhantov&show_icons=true&theme=radical)
 
-[![Мои навыки] (https://skills.thijs.gg/icons?я = java, kotlin, nodejs, figma & theme = light)](https://skills.thijs.gg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,html,git,github,css,express,figma,postman,vscode,webpack,sass,mongodb" />
+  </a>
+</p>
