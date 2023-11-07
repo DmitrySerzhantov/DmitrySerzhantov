@@ -10,6 +10,7 @@
 Если у тебя возникли вопросы, предложения или интересные проекты, буду рад ответить на них! Давай вместе сделаем веб-мир лучше! 😊
 
 **Мой Telegram:** https://t.me/SerzhantovDim
+ **Email:** Serzhantovdimitri@yandex.ru
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitrySerzhantov&show_icons=true&theme=radical)
 
