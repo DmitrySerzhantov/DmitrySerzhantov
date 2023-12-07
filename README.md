@@ -15,7 +15,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitrySerzhantov&show_icons=true&theme=radical)
 ![](https://www.codewars.com/users/DmitrySerzhantov/badges/large)
 
-**Стек:**
+<h2 align="center">**Стек:**</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
